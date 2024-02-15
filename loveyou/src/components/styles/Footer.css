@@ -1,0 +1,19 @@
+/* Footer.css */
+
+.footer {
+    background-color: #ff85a2; /* Match the header color or choose a different one */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  p {
+    font-size: 0.9rem;
+    margin: 5px 0;
+  }
+  
